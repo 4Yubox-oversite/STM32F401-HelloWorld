@@ -8,3 +8,8 @@ Hướng dẫn cài:
 4. Chọn ngôn ngữ
 5. Chọn thư mục lưu file
 6. bấm next tới hết 
+Tải NppAStyle:
+1. Bấm vào link https://github.com/ywx/NppAStyle/releases
+2. Kéo xuống bấm vào NppAStyle-0.2.7-x64-20180203.7z
+3. Giải nén ra copy NppAStyle.dll vào thư mục cài đặt <Notepad ++> \ plugins
+4. Chạy lại chương trình Notepad++ (menu plugins sẽ hiện NppAStyle)
