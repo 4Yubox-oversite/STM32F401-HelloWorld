@@ -1,1 +1,6 @@
-Phần này 1 bạn làm và push hướng dẫn lên
+Tải STM32CubeMX tại: https://www.st.com/en/development-tools/stm32cubemx.html#get-software (Điền thông tin và chịn phiên bản để tải).
+Tải java runtime environment 1.8.0: https://www.java.com/en/download/win10.jsp
+Giải nén và chạy file : SetupSTM32CubeMX-5.x.x.exe
+Ấn next --> đến cửa số STM32CubeMX installation Wizard thì tích cả 2 mục
+Chọn vị trí lưu
+Sau khi quá trình hoàn tất, nhấn Done để kết thúc việc cài đặt.
