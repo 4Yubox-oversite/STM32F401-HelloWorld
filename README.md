@@ -7,4 +7,12 @@ Training for new team member
 - [x] [Cài đặt IAR](https://github.com/4Yubox-oversite/STM32F401-HelloWorld/blob/master/C%C3%A0i%20%C4%91%E1%BA%B7t%20IAR)
 - [x] Cài đặt STM32CubeMX
 - [x] Cài đặt Notepad++ với plugin Astyle
-- [ ] Tạo tạo project hello world
+- [x] Tạo tạo project hello world
+Code helo world giao tiếp uart vs máy tính dùng Tera Team để xem:
+Code đã test
+ while (1)
+  {
+    char str[] = "hello world\n";
+      HAL_UART_Transmit(&huart1,(uint8_t *)str,sizeof(str),100);
+      HAL_Delay(1000);
+  }
